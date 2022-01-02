@@ -1,0 +1,12 @@
+.griding{
+    display: flex;
+    flex-direction: row;
+   /* justify-content: space-between;*/
+    padding: 10px;
+}
+.griding1{
+    border: 2px solid black;
+    padding: 10px 95px 10px 95px;
+    margin: 35px;
+    background: gainsboro;
+}
